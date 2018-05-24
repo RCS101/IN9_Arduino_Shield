@@ -1,0 +1,87 @@
+Auto Rename
+-----------
+
+Report File:        D:\Creative projects\Nixie Shield Kickstarter\Nixie Shield\Hardware\Shield\shield (SCH - Auto Rename).txt
+Report Written:     Thursday, May 10, 2018
+Project Path:       D:\Creative projects\Nixie Shield Kickstarter\Nixie Shield\Hardware\Shield\shield.prj
+Design Path:        D:\Creative projects\Nixie Shield Kickstarter\Nixie Shield\Hardware\Shield\shield.sch
+Design Title:       
+Created:            
+Last Saved:         05/05/2018 13:27:15
+Editing Time:       2574 min
+Units:              thou (precision 2)
+
+
+Old Name             New Name
+=============================
+
+R11 R1
+R7  R2
+R9  R3
+R8  R4
+R10 R5
+R3  R6
+R6  R7
+R1  R8
+R2  R9
+R4  R10
+R5  R11
+Q3 Q1
+Q4 Q2
+Q1 Q3
+Q2 Q4
+REF31 REF1
+REF20 REF2
+REF28 REF3
+REF19 REF4
+REF29 REF5
+REF21 REF6
+REF30 REF7
+REF32 REF8
+REF17 REF9
+REF22 REF10
+REF25 REF11
+REF23 REF12
+REF26 REF13
+REF24 REF14
+REF2  REF15
+REF4  REF16
+REF27 REF17
+REF5  REF18
+REF3  REF19
+REF1  REF20
+REF39 REF21
+REF38 REF22
+REF35 REF23
+REF37 REF24
+REF33 REF25
+REF36 REF26
+REF34 REF27
+REF18 REF28
+REF9  REF29
+REF8  REF30
+REF10 REF31
+REF11 REF32
+REF16 REF33
+REF6  REF34
+REF12 REF35
+REF15 REF36
+REF7  REF37
+REF13 REF38
+REF14 REF39
+IC2 IC1
+IC1 IC2
+CONN3 CONN1
+Conn1 CONN3
+D2 D1
+D1 D2
+C7 C1
+C4 C2
+C8 C3
+C5 C4
+C6 C5
+C1 C6
+C2 C7
+C3 C8
+
+68 renames performed.

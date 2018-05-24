@@ -1,0 +1,220 @@
+Design Rule Check Report
+------------------------
+
+Report File:        D:\Creative projects\Nixie Shield Kickstarter\Nixie Shield\Hardware\Shield\shield (PCB - Design Rule Check Report).txt
+Report Written:     Thursday, May 24, 2018
+Design Path:        D:\Creative projects\Nixie Shield Kickstarter\Nixie Shield\Hardware\Shield\shield.pcb
+Design Title:       
+Created:            01/09/2017 16:40:02
+Last Saved:         24/05/2018 21:38:19
+Editing Time:       5126 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (417.65 548.65) and (417.65 551.00) on Layer "[All]".
+    Error between Component Pad SW1.1 (Net '+12V') and Board, Gap is 2.29 needs to be 2.54.
+Pad to Board Error (P-B) between (413.85 548.65) and (413.85 551.00) on Layer "[All]".
+    Error between Component Pad SW1.2 (Net 'Vin') and Board, Gap is 2.29 needs to be 2.54.
+Pad to Board Error (P-B) between (412.65 548.65) and (412.65 551.00) on Layer "[All]".
+    Error between Component Pad SW1.3 and Board, Gap is 2.29 needs to be 2.54.
+Pad to Board Error (P-B) between (439.50 544.45) and (441.50 544.45) on Layer "[All]".
+    Error between Component Pad SW2.1 (Net 'GND') and Board, Gap is 1.94 needs to be 2.54.
+Pad to Board Error (P-B) between (439.50 547.55) and (441.50 547.55) on Layer "[All]".
+    Error between Component Pad SW2.4 (Net 'Reset') and Board, Gap is 1.94 needs to be 2.54.
+Pad to Board Error (P-B) between (432.50 548.55) and (432.50 551.00) on Layer "[All]".
+    Error between Component Pad SW2.3 (Net 'Reset') and Board, Gap is 2.39 needs to be 2.54.
+Pad to Board Error (P-B) between (397.55 549.71) and (397.55 551.00) on Layer "[All]".
+    Error between Component Pad BAT1.1 (Net 'GND') and Board, Gap is 1.23 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 528.84) and (441.50 528.84) on Layer "[All]".
+    Error between Component Pad CONN3.1 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 526.30) and (441.50 526.30) on Layer "[All]".
+    Error between Component Pad CONN3.2 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 523.76) and (441.50 523.76) on Layer "[All]".
+    Error between Component Pad CONN3.3 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 521.22) and (441.50 521.22) on Layer "[All]".
+    Error between Component Pad CONN3.4 (Net 'GND') and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 518.68) and (441.50 518.68) on Layer "[All]".
+    Error between Component Pad CONN3.5 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 516.14) and (441.50 516.14) on Layer "[All]".
+    Error between Component Pad CONN3.6 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 513.60) and (441.50 513.60) on Layer "[All]".
+    Error between Component Pad CONN3.7 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 511.06) and (441.50 511.06) on Layer "[All]".
+    Error between Component Pad CONN3.8 (Net 'Tube1') and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 508.52) and (441.50 508.52) on Layer "[All]".
+    Error between Component Pad CONN3.9 (Net 'Tube2') and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 505.98) and (441.50 505.98) on Layer "[All]".
+    Error between Component Pad CONN3.10 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 501.93) and (441.50 501.93) on Layer "[All]".
+    Error between Component Pad CONN3.11 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 499.39) and (441.50 499.39) on Layer "[All]".
+    Error between Component Pad CONN3.12 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 496.85) and (441.50 496.85) on Layer "[All]".
+    Error between Component Pad CONN3.13 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 494.31) and (441.50 494.31) on Layer "[All]".
+    Error between Component Pad CONN3.14 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 491.77) and (441.50 491.77) on Layer "[All]".
+    Error between Component Pad CONN3.15 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 489.23) and (441.50 489.23) on Layer "[All]".
+    Error between Component Pad CONN3.16 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 486.69) and (441.50 486.69) on Layer "[All]".
+    Error between Component Pad CONN3.17 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (439.76 484.15) and (441.50 484.15) on Layer "[All]".
+    Error between Component Pad CONN3.18 and Board, Gap is 1.67 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 498.37) and (388.50 498.37) on Layer "[All]".
+    Error between Component Pad CONN3.19 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 495.83) and (388.50 495.83) on Layer "[All]".
+    Error between Component Pad CONN3.20 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 493.29) and (388.50 493.29) on Layer "[All]".
+    Error between Component Pad CONN3.21 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 490.75) and (388.50 490.75) on Layer "[All]".
+    Error between Component Pad CONN3.22 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 488.21) and (388.50 488.21) on Layer "[All]".
+    Error between Component Pad CONN3.23 (Net 'SDA') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 485.67) and (388.50 485.67) on Layer "[All]".
+    Error between Component Pad CONN3.24 (Net 'SCL') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 521.23) and (388.50 521.23) on Layer "[All]".
+    Error between Component Pad CONN3.25 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 518.68) and (388.50 518.68) on Layer "[All]".
+    Error between Component Pad CONN3.26 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 516.14) and (388.50 516.14) on Layer "[All]".
+    Error between Component Pad CONN3.27 (Net 'Reset') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 513.61) and (388.50 513.61) on Layer "[All]".
+    Error between Component Pad CONN3.28 and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 511.07) and (388.50 511.07) on Layer "[All]".
+    Error between Component Pad CONN3.29 (Net '+5V') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 508.52) and (388.50 508.52) on Layer "[All]".
+    Error between Component Pad CONN3.30 (Net 'GND') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 505.99) and (388.50 505.99) on Layer "[All]".
+    Error between Component Pad CONN3.31 (Net 'GND') and Board, Gap is 1.43 needs to be 2.54.
+Pad to Board Error (P-B) between (389.99 503.44) and (388.50 503.44) on Layer "[All]".
+    Error between Component Pad CONN3.32 (Net 'Vin') and Board, Gap is 1.43 needs to be 2.54.
+Component to Component Error (Cm-Cm) between (395.55 488.65) and (395.55 483.64) on Layer "[Top]".
+    R8 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (428.67 526.56) and (428.67 530.87) on Layer "[Top]".
+    C4 - CONN3, Gap is 0.00.
+Component to Component error (Cm-Cm) at (403.42 545.55) on layer "[Top]".
+    BAT1 - LED1, Gap is 0.00.
+Component to Component error (Cm-Cm) at (389.49 529.81) on layer "[Top]".
+    BAT1 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (400.44 490.93) and (400.44 483.64) on Layer "[Top]".
+    C6 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (401.60 502.65) and (389.49 502.65) on Layer "[Top]".
+    XTAL1 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (396.99 493.34) and (389.49 493.34) on Layer "[Top]".
+    IC2 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (397.55 488.65) and (397.55 483.64) on Layer "[Top]".
+    R9 - CONN3, Gap is 0.00.
+Component to Component error (Cm-Cm) at (434.22 530.87) on layer "[Top]".
+    R2 - CONN3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (433.67 530.87) and (433.67 526.56) on Layer "[Top]".
+    CONN3 - C2, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (414.15 483.64) and (414.15 502.25) on Layer "[Top]".
+    CONN3 - R6, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (411.93 483.64) and (411.93 502.24) on Layer "[Top]".
+    CONN3 - C7, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (416.15 483.64) and (416.15 502.25) on Layer "[Top]".
+    CONN3 - R10, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (404.22 483.64) and (404.22 494.28) on Layer "[Top]".
+    CONN3 - Q3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (414.10 530.87) and (414.10 517.22) on Layer "[Top]".
+    CONN3 - D1, Gap is 0.00.
+Component to Component error (Cm-Cm) at (415.72 483.64) on layer "[Top]".
+    CONN3 - CONN1, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (426.15 530.87) and (426.15 526.35) on Layer "[Top]".
+    CONN3 - R4, Gap is 0.00.
+Component to Component error (Cm-Cm) at (420.40 530.87) on layer "[Top]".
+    CONN3 - Q2, Gap is 0.00.
+Component to Component error (Cm-Cm) at (431.06 530.87) on layer "[Top]".
+    CONN3 - IC1, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (419.10 530.87) and (419.10 528.52) on Layer "[Top]".
+    CONN3 - D2, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (440.27 508.57) and (433.11 508.57) on Layer "[Top]".
+    CONN3 - Q1, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (410.67 530.87) and (410.67 525.46) on Layer "[Top]".
+    CONN3 - L1, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (440.27 494.28) and (433.59 494.28) on Layer "[Top]".
+    CONN3 - Q4, Gap is 0.00.
+Component to Component error (Cm-Cm) at (429.12 483.64) on layer "[Top]".
+    CONN3 - CONN2, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (440.27 502.05) and (431.25 502.05) on Layer "[Top]".
+    CONN3 - R11, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (440.27 502.04) and (426.87 502.04) on Layer "[Top]".
+    CONN3 - C8, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (440.27 502.05) and (429.05 502.05) on Layer "[Top]".
+    CONN3 - R7, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (431.17 530.87) and (431.17 526.56) on Layer "[Top]".
+    CONN3 - C5, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (414.35 530.87) and (414.35 525.25) on Layer "[Top]".
+    CONN3 - R5, Gap is 0.00.
+Component to Component error (Cm-Cm) at (416.08 530.87) on layer "[Top]".
+    CONN3 - C3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (414.35 530.87) and (414.35 523.65) on Layer "[Top]".
+    CONN3 - R3, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (407.10 484.15) and (407.10 485.80) on Layer "[Bottom]".
+    CONN3 - CONN1, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (420.50 484.15) and (420.50 485.80) on Layer "[Bottom]".
+    CONN3 - CONN2, Gap is 0.00.
+
+Number of errors found : 72
+
+
+Accepted Errors already in the design
+=====================================
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Silkscreen Board Overlap        No
+Wires                           No
+Component Height                No
+Copper Text In Board            No
+Mirrored Text                   No
+Routing Areas                   Yes
+Min Track Width                 No
+Neck Length                     No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

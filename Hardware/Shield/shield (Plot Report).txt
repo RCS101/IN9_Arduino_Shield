@@ -1,0 +1,280 @@
+Plot Report
+-----------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield (Plot Report).txt
+Report Written:     Sunday, November 26, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield.pcb
+Design Title:       
+Created:            01/09/2017 15:40:02
+Last Saved:         24/11/2017 12:10:04
+Editing Time:       4750 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1 1    Format 3.5 absolute in inches.
+    No zero suppression.    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Top Mask.gbr
+
+    Layers:
+    ------------
+    Top Mask
+
+    D-Code Shape  (thou)
+    ------------------------------------------------
+    D10    Rectangle 76.93 X 135.98  Rotation 90
+    D11    Rectangle 242.28 X 261.97  Rotation 90
+    D12    Rectangle 41.50 X 49.37
+    D13    Rectangle 49.37 X 52.91  Rotation 90
+    D14    Square 73.00
+    D15    Rectangle 35.00 X 90.00  Rotation 90
+    D16    Rectangle 93.86 X 167.48  Rotation 90
+    D18    Rectangle 49.37 X 52.91
+    D19    Rectangle 50.00 X 58.00  Rotation 90
+    D70    Rectangle 67.87 X 96.61  Rotation 90
+    D71    Rectangle 41.50 X 49.37  Rotation 90
+    D21    Rectangle 61.18 X 147.80  Rotation 90
+    D22    Rectangle 132.05 X 226.54  Rotation 90
+    D24    Round 88.74
+    D25    Square 70.00
+    D29    Round 80.87
+    D74    Round 65.91
+    D75    Round 58.00
+    D119   Rectangle 35.00 X 90.00
+    D120   Rectangle 61.18 X 116.30
+    D121   Rectangle 49.37 X 76.93  Rotation 90
+    D122   Rectangle 41.50 X 80.87
+    D123   Rectangle 324.96 X 462.76
+    D124   Rectangle 61.18 X 135.98
+    D125   Rectangle 100.55 X 179.29
+    D126   Rectangle 100.55 X 154.09
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Top Silk.gbr
+
+    Layers:
+    ------------
+    Top Silk
+
+    D-Code Shape  (thou)
+    -----------------------
+    D76    Round 3.94
+    D77    Round 5.00
+    D78    Round 7.87
+    D79    Round 12.00
+    D80    Round 10.00
+    D113   Round 0.00
+    D127   Round 5.12
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ------------------------------------------------
+    D77    Round 5.00
+    D80    Round 10.00
+    D82    Rectangle 66.93 X 125.98  Rotation 90
+    D83    Rectangle 232.28 X 251.97  Rotation 90
+    D84    Rectangle 31.50 X 39.37
+    D85    Rectangle 39.37 X 42.91  Rotation 90
+    D86    Square 63.00
+    D87    Rectangle 25.00 X 80.00  Rotation 90
+    D88    Rectangle 83.86 X 157.48  Rotation 90
+    D90    Rectangle 39.37 X 42.91
+    D91    Rectangle 40.00 X 48.00  Rotation 90
+    D92    Rectangle 57.87 X 86.61  Rotation 90
+    D93    Rectangle 31.50 X 39.37  Rotation 90
+    D95    Rectangle 51.18 X 137.80  Rotation 90
+    D96    Rectangle 122.05 X 216.54  Rotation 90
+    D98    Round 78.74
+    D99    Square 60.00
+    D103   Round 70.87
+    D106   Round 55.91
+    D107   Round 25.00
+    D108   Round 50.00
+    D109   Round 15.00
+    D110   Round 48.00
+    D128   Rectangle 25.00 X 80.00
+    D129   Rectangle 51.18 X 106.30
+    D130   Rectangle 39.37 X 66.93  Rotation 90
+    D131   Rectangle 31.50 X 70.87
+    D132   Rectangle 314.96 X 452.76
+    D133   Rectangle 51.18 X 125.98
+    D134   Rectangle 90.55 X 169.29
+    D135   Rectangle 90.55 X 144.09
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D77    Round 5.00
+    D80    Round 10.00
+    D98    Round 78.74
+    D99    Square 60.00
+    D103   Round 70.87
+    D106   Round 55.91
+    D107   Round 25.00
+    D108   Round 50.00
+    D109   Round 15.00
+    D110   Round 48.00
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Bottom Silk.gbr
+
+    Layers:
+    ---------------
+    Bottom Silk
+
+    D-Code Shape  (thou)
+    -----------------------
+    D81    Round 11.81
+    D113   Round 0.00
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Bottom mask.gbr
+
+    Layers:
+    ---------------
+    Bottom mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D24    Round 88.74
+    D25    Square 70.00
+    D29    Round 80.87
+    D74    Round 65.91
+    D75    Round 58.00
+
+NC Drill Output
+===============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02400 in 9     F
+    T002  000.03189 in 18    E
+    T003  000.03500 in 32    B
+    T004  000.04724 in 4     A
+    T005  000.05512 in 2     D
+    ------------------------------------
+    Total              65
+    ------------------------------------
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    47    Y      100  Round A
+    35    Y      100  Round B
+    55    Y      100  Round D
+    32    Y      100  Round E
+    24    Y      100  Round F
+
+    D-Code Shape  (thou)
+    -----------------------
+    D77    Round 5.00
+    D116   Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\Nixie Shield\Hardware\Shield\shield - Board outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D77    Round 5.00
+
+End Of Report.
